@@ -5,5 +5,5 @@ export default function Link ({children, href, ...props}) {
         <NextLink href={href} passHref>
             <a {...props}>{children}</a>
         </NextLink>
-    )
+    );
 }

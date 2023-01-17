@@ -8,5 +8,5 @@ export default function HomePage() {
                 Ir para página do FAQ
             </Link>
         </div>
-    )
+    );
 }
